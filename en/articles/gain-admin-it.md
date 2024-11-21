@@ -22,7 +22,7 @@ This is a simple guide on how you can log in as the hidden Administrator account
 
 2. In the cmd window type *notepad* and hit **Enter**
 
-3. In notepad click **File**, then **Open** | OR | Press **Ctrl** and **O**
+3. In notepad click **File**, then **Open** \| OR \| Press **Ctrl** and **O**
 
 4. Navigate to *C:\Windows\System32*
 
