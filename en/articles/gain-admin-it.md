@@ -48,12 +48,14 @@ It is also possible to make your own account an administrator, but its generally
 
  - With that account you can install anything without any issue
 
-## Deactivate the Administrator account
+## Disable the Administrator account
 
 Because the teacher might check your computer after class its best to disable the Administrator account.
 
 1. In the start menu type *cmd* and click on **Run as administrator**
 
-2. Type *net user administrator /active:no*
+2. Type *net user administrator /active:no* and hit **Enter**
 
 Once you log out, the Administrator account will again become hidden.
+
+If you want to enable it again (for a second time) [start from here](#enable-administrator-account)
